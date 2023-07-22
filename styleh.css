@@ -137,3 +137,6 @@ body {
   background-image: url(""); /* Replace with your broken heart icon image */
   background-size: cover;
 }
+a{
+  color: #fff;
+}
